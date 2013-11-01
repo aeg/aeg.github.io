@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[AEG's gea]]></title>
+  <link href="http://aeg.github.io/atom.xml" rel="self"/>
+  <link href="http://aeg.github.io/"/>
+  <updated>2013-11-01T22:30:42+09:00</updated>
+  <id>http://aeg.github.io/</id>
+  <author>
+    <name><![CDATA[Eiji Ito]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[てすと記事]]></title>
+    <link href="http://aeg.github.io/blog/2013/11/01/test-post/"/>
+    <updated>2013-11-01T22:02:00+09:00</updated>
+    <id>http://aeg.github.io/blog/2013/11/01/test-post</id>
+    <content type="html"><![CDATA[<h1>まずは</h1>
+
+<p>お試しで書いてみますよ。</p>
+
+<p>どんな感じ?</p>
+]]></content>
+  </entry>
+  
+</feed>
